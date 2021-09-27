@@ -1,4 +1,4 @@
-package com.davidoparanti.designpattern.example.model;
+package com.davidoparanti.designpattern.model;
 
 public class Dog extends Animal{
 

@@ -1,4 +1,4 @@
-package com.davidoparanti.designpattern.strategy;
+package com.davidoparanti.designpattern.design.pattern.strategy;
 
 public class Squeak implements QuackBehavior {
     public void quack() {

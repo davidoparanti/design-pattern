@@ -1,4 +1,4 @@
-package com.davidoparanti.designpattern.strategy;
+package com.davidoparanti.designpattern.design.pattern.strategy;
 
 public class FlyWithWings implements FlyBehavior {
     public void fly() {
