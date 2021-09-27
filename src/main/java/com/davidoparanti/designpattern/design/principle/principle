@@ -1,0 +1,11 @@
+Design Principles
+
+1) Identify the aspect of program that vary and separate them from what stay the same.
+    This could also means: Isolating the path of the program that vary so that, later, that
+    part could be alter or extended without affecting the part that don't.
+
+2) Program to an interface not to implementation.
+
+3) Favour composition over inheritance.
+
+
