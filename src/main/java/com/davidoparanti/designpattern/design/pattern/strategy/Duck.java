@@ -1,5 +1,8 @@
 package com.davidoparanti.designpattern.design.pattern.strategy;
 
+import java.util.List;
+import java.util.stream.Collectors;
+
 public abstract class Duck {
 
     FlyBehavior flyBehavior;
