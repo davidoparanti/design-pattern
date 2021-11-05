@@ -9,3 +9,5 @@ Design Principles
 3) Favour composition over inheritance.
 
 4) Strive for loosely coupled designs between objects that interact.
+
+5) Class should be open for extension but close for modification.

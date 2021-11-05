@@ -1,0 +1,5 @@
+Decorator pattern allows us to modify an object dynamically. It allows us to attach additional responsibility to an
+object dynamically.
+
+You will use it when you want the capabilities of inheritance with subclasses, but you need to add additional
+functionality at run time.
