@@ -1,1 +1,2 @@
-The singleton pattern ensures a class only have one instance, and provides a global point of access to it.
+The singleton pattern ensures a class only have one instance,
+and provides a global point of access to it.
