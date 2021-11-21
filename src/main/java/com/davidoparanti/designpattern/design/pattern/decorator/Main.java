@@ -15,8 +15,13 @@ public class Main {
 
         Beverage beverage1 = new Whip(new Whip(new Mocha(new Espresso())));
 
+        Beverage beverage2 = new Mocha(new Mocha(new Whip(new Espresso())));
+
         System.out.println(beverage1.getDescription());
         System.out.println(beverage1.getCost());
+
+        System.out.println(beverage2.getDescription());
+        System.out.println(beverage2.getCost());
     }
 
 }

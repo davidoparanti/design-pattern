@@ -1,0 +1,2 @@
+Command - Encapsulate a request as an object, thereby letting you paramatize clients with different request,
+queue or log request, and support undoable operation.
